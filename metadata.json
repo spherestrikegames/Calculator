@@ -1,0 +1,6 @@
+{
+  "name": "Kids Glass Scientific Calculator",
+  "description": "A vibrant glassmorphic scientific calculator designed for kids with interactive math explorers, tactile sounds, and visual function helpers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
