@@ -4,9 +4,8 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
-   base: '/Calculator/',
   return {
-    base: './',
+    base: '/Calculator/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
