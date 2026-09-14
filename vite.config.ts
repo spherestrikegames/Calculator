@@ -6,6 +6,7 @@ import {defineConfig} from 'vite';
 export default defineConfig(() => {
    base: '/Calculator/',
   return {
+    base: './',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
